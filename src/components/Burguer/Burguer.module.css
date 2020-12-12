@@ -1,0 +1,36 @@
+.Burguer{
+    width: 100vw;
+    margin: auto;
+    height: 250px;
+    overflow: scroll;
+    overflow-x: hidden;
+    text-align: center;
+    font: bold 1.2rem "Open Sans";
+}
+
+@media(min-width:500px) and (min-height:400px){
+
+    .Burguer{
+        width: 30vw;
+        height: 300px;
+        
+    }
+}
+
+@media(min-width:500px) and (min-height:401px){
+
+    .Burguer{
+        width: 50vw;
+        height: 400px;
+        
+    }
+}
+
+@media(min-width:1000px) and (min-height:700px){
+
+    .Burguer{
+        width: 60vw;
+        height: 600px;
+
+    }
+}
