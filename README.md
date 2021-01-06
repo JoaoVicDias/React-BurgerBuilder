@@ -26,9 +26,9 @@ I developed this website together with the ReactJS course at udemy where I was a
 ### Stack 
 1. ReactJS - as FrontEnd
 2. Redux - as library to manage state
-1. FireBase - as server side
-3. FireBase - as cloud platform
-4. FireBase - as Data base
+3. FireBase - as server side
+4. FireBase - as cloud platform
+5. FireBase - as Data base
 
 
 ## Want to say something?
